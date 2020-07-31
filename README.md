@@ -32,8 +32,8 @@ All deadlines (20:00 GMT) are hard. Late submissions are not accepted.
 * 02.09.20: Review Start
 * 23.09.20: Review Due
 * 28.09.20: Author Notification
-* 07.10.20: Camera-ready Paper Due
-* 07.10.20: Conference presentation
+* 10.10.20: Camera-ready Paper Due
+* 15. & 16.10.20: Conference presentation
 
 ## Paper Submission
 
