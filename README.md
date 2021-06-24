@@ -1,6 +1,6 @@
 
 
-![acsfub_2020](img/acsfub_2020.png)
+![acsfub_2021](img/acsfub_2021.png)
 
 
 # Goals
@@ -27,20 +27,22 @@ The [EasyChair Conference Management System](https://easychair.org/) is used for
 
 All deadlines (20:00 GMT) are hard. Late submissions are not accepted.
 
-* 21.08.20: Abstract Due
-* 28.08.20: Paper Due
-* 02.09.20: Review Start
-* 23.09.20: Review Due
-* 28.09.20: Author Notification
-* 10.10.20: Camera-ready Paper Due
-* 15.-16.10.20: Conference presentation
+
+* 30.08.21: Abstract Due
+* 02.09.21: Paper Due
+* 07.09.21: Review Start
+* 28.09.21: Review Due
+* 30.09.21: Author Notification
+* October 21 (tba): Camera-ready Paper Due
+* October 21 (tba): Conference presentation
+
 
 ## Paper Submission
 
 * Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2020).
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given [LaTeX template](acsfubPublStyle-2020.zip).
-    * The template is a stripped down version of the original conference template of the [Eurographics](https://conferences.eg.org/egev20/) conference, with this [original submission template](egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip)). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
+* Submissions are only accepted as pdf from the given [LaTeX template](acsfubPublStyle.zip).
+    * The template is a stripped down version of the original conference template of the [Eurographics](https://conferences.eg.org/eg2021/) conference, with this [original submission template](egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip)). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
     * **If you have no experience with working with LaTeX make sure to plan in enough time to get accustomed to the system.**
     * If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. If in doubt, the layout is explicitly listed in [Eurographics Author’s guidelines](egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip).
     * Here can find an Eurographics [exemplary short paper](https://www.dfki.de/fileadmin/user_upload/import/10356_009-012.pdf) (randomly chosen).
@@ -49,7 +51,7 @@ All deadlines (20:00 GMT) are hard. Late submissions are not accepted.
     * must be 4-6 pages in length (without references),
     * must be in English,
     * adhere to an academic format (e.g. introduction, contributions, related work, problem statement, solution, future work), and 
-    * should make an academic contribution as much as possible.
+    * should make an academic contribution as much as possible (but don't stress about this).
 
 ## Review Submission
 
