@@ -39,7 +39,7 @@ All deadlines (20:00 GMT) are hard. Late submissions are not accepted.
 
 ## Paper Submission
 
-* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2020).
+* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2020). As of now, the submission system is still closed. I will let you know as soon as it is open.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
 * Submissions are only accepted as pdf from the given [LaTeX template](acsfubPublStyle.zip).
     * The template is a stripped down version of the original conference template of the [Eurographics](https://conferences.eg.org/eg2021/) conference, with this [original submission template](egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip)). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
