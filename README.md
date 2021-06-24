@@ -27,7 +27,6 @@ The [EasyChair Conference Management System](https://easychair.org/) is used for
 
 All deadlines (20:00 GMT) are hard. Late submissions are not accepted.
 
-
 * 30.08.21: Abstract Due
 * 02.09.21: Paper Due
 * 07.09.21: Review Start
@@ -74,7 +73,7 @@ The reviews might give revisions and these must be considered in the final camer
 
 ## Conference Presentation
 
-* October 15-16th, 10 a.m.-5 p.m.
+* tba, early October
 * 15 min formal presentation
 * 5-10 min discussion
 
