@@ -4,10 +4,6 @@
 
 ---
 
-## Submission Link: https://easychair.org/conferences/?conf=acsfub2021
-
----
-
 # Program
 
 | Slot        | Paper                                                                                                              | Presenter             |
@@ -60,6 +56,10 @@ All deadlines (20:00 GMT) are hard. Late submissions are not accepted.
 
 
 ## Paper Submission
+
+
+**Submission Link: https://easychair.org/conferences/?conf=acsfub2021**
+
 
 * Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2021). As of now, the submission system is still closed. I will let you know as soon as it is open.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
